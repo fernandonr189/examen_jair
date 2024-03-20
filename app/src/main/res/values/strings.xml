@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Parcial1Jair</string>
+    <string name="curp">CURP</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellido">Apellidos</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="ingreso">Cantidad de Ingreso</string>
+    <string name="credito">Tipo de Credito</string>
+
+    <!-- Tipo de credito -->
+    <string-array name="creditos">
+        <item>Premier</item>
+        <item>Oro</item>
+        <item>Platinum</item>
+    </string-array>
+
+    <!-- Botones -->
+    <string name="validar">Validar</string>
+    <string name="limpiar">Limpiar</string>
+
+    <!-- Títulos y Mensajes de Notificación -->
+    <string name="notificacion_titulo">Estatus de Solicitud</string>
+    <string name="apto">¡Felicidades, eres apto para el crédito!</string>
+    <string name="no_apto">Lo sentimos, no cumples con los requisitos pobretón :(</string>
+
+    <!-- Citas y Beneficios -->
+    <string name="cita">Cita</string>
+    <string name="beneficios">Beneficios</string>
+    <string name="seleccionar_fecha">Selecciona la Fecha y Hora</string>
+    <string name="agendar">Agendar</string>
+    <string name="texto_beneficios">Los beneficios son muchos :)</string>
+</resources>
